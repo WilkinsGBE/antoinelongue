@@ -65,7 +65,7 @@ export default function ReelHero(){
           alt="Antoine Longue - Graphic Designer & Photographer"
           fill
           className="object-cover object-center"
-          style={{ objectPosition: 'center 30%' }}
+          style={{ objectPosition: 'center 20%' }}
           priority
         />
       </motion.div>

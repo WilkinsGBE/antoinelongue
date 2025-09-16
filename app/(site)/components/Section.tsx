@@ -5,13 +5,15 @@ export default function Section({id,children, className}:{id?:string; children:R
   return (
     <motion.section 
       id={id} 
-      className={`section ${className||''}`}
+      className={`section px-6 md:px-8 ${className||''}`}
       initial={{ opacity: 0 }}
       whileInView={{ opacity: 1 }}
       transition={{ duration: 0.6 }}
       viewport={{ once: true, margin: "-100px" }}
     >
-      {children}
+      <div className="max-w-6xl mx-auto">
+        {children}
+      </div>
     </motion.section>
   );
 }

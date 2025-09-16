@@ -5,7 +5,7 @@ export default function Footer(){
   const site = getSite();
   return (
     <footer className="section border-t border-white/10">
-      <div className="mx-auto max-w-6xl px-4 grid md:grid-cols-3 gap-6">
+      <div className="mx-auto max-w-6xl px-6 md:px-8 grid md:grid-cols-3 gap-6">
         <div>
           <h3 className="h2">Let&apos;s build your story.</h3>
           <p className="p mt-2">{site.bio.availability} — {site.locations.join(' / ')}</p>

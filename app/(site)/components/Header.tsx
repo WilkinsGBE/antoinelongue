@@ -53,7 +53,7 @@ export default function Header(){
       transition={{ duration: 0.6 }}
     >
       <motion.nav 
-        className="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between"
+        className="mx-auto max-w-6xl px-6 md:px-4 py-4 flex items-center justify-between"
         variants={navVariants}
         initial="hidden"
         animate="visible"

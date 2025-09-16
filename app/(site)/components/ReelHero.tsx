@@ -76,7 +76,7 @@ export default function ReelHero(){
         transition={{ duration: 1, delay: 0.3 }}
       />
       <motion.div 
-        className="relative z-10 max-w-6xl mx-auto h-full flex flex-col justify-end p-8 md:p-8"
+        className="relative z-10 max-w-6xl mx-auto h-full flex flex-col justify-end px-6 md:px-8 py-8"
         variants={containerVariants}
         initial="hidden"
         animate="visible"

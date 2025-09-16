@@ -43,7 +43,7 @@ export default function PortfolioGrid(){
 
   return (
     <motion.div 
-      className="grid md:grid-cols-3 gap-6"
+      className="grid md:grid-cols-3 gap-8"
       variants={containerVariants}
       initial="hidden"
       whileInView="visible"
@@ -72,6 +72,7 @@ export default function PortfolioGrid(){
                   <motion.div
                     whileHover={{ scale: 1.05 }}
                     transition={{ duration: 0.4 }}
+                    className="overflow-hidden"
                   >
                     <Image src={p.hero} alt={p.title} width={1200} height={800} className="h-64 w-full object-cover"/>
                   </motion.div>

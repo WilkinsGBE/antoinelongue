@@ -162,3 +162,20 @@ body {
   background-color: rgba(255, 255, 255, 0.1);
   transform: translateY(-1px);
 }
+
+/* --- Page gutters & container (safe-area aware) --- */
+:root { --gutter: clamp(16px, 4vw, 28px); } /* mobile → desktop */
+
+@utility container-soft {
+  margin-inline: auto;
+  max-width: 72rem;                /* ~max-w-6xl */
+  padding-left: max(var(--gutter), env(safe-area-inset-left));
+  padding-right: max(var(--gutter), env(safe-area-inset-right));
+}
+
+.section { /* keep your vertical rhythm; bump a touch */
+  padding-block: clamp(48px, 7vw, 96px);
+}
+
+/* make default grid a bit airier */
+.a-grid { gap: 2rem; }             /* was gap-6 (~1.5rem) */

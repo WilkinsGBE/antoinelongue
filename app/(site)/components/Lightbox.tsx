@@ -10,7 +10,7 @@ export default function Lightbox({images}:{images:string[]}){
         {images.map((src,i)=> (
           <button key={src} className="relative group" onClick={()=>{setIdx(i);setOpen(true);}}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={src} alt="" className="rounded-xl border border-white/10 group-hover:opacity-90"/>
+            <img src={src} alt="" className="w-full rounded-xl border border-white/10 group-hover:opacity-90"/>
           </button>
         ))}
       </div>

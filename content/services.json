@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "photography-videography",
+    "title": "Photography & Videography",
+    "summary": "Matchday coverage, portraits, commercial campaigns, and short-form reels with cinematic color grade.",
+    "bullets": [
+      "Sports action & atmosphere",
+      "Athlete & staff portraits",
+      "Commercial brand shoots",
+      "Short-form vertical reels"
+    ],
+    "cta": "Book a shoot"
+  },
+  {
+    "slug": "graphic-design",
+    "title": "Graphic Design",
+    "summary": "Elite posters, covers, social kits, and photo-manipulation composites for clubs and brands.",
+    "bullets": [
+      "Matchday & announcement posters",
+      "Social media kits & ad creatives",
+      "Key visuals & media day templates",
+      "Photo composites & retouching"
+    ],
+    "cta": "Start a design project"
+  },
+  {
+    "slug": "lightroom-presets",
+    "title": "Lightroom Presets",
+    "summary": "Film-inspired color science for speed and consistency across sets.",
+    "bullets": [
+      "One‑click looks with tweakable sliders",
+      "Desktop & Mobile variants",
+      "Documentation & install guide"
+    ],
+    "cta": "Shop presets"
+  }
+]

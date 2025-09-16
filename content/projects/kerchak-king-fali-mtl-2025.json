@@ -1,0 +1,20 @@
+{
+  "slug": "kerchak-king-fali-mtl-2025",
+  "title": "KERCHAK × KING FALI – Montreal Concert",
+  "date": "2025-03-12",
+  "location": "Montreal, Canada",
+  "services": ["Photography"],
+  "summary": "High‑ISO live energy and crowd texture with neon highlights; artist close‑ups and motion blur framing.",
+  "hero": "/portfolio/KERCHAK X KING FALI/03cfe317-58b8-42fb-a945-46f916da656c_rw_1920.jpg",
+  "gallery": [
+    "/portfolio/KERCHAK X KING FALI/03cfe317-58b8-42fb-a945-46f916da656c_rw_1920.jpg",
+    "/portfolio/KERCHAK X KING FALI/227dec61-b9ec-4f25-9bd5-e4aa36148853_rw_1920.jpg",
+    "/portfolio/KERCHAK X KING FALI/24dcf275-4188-4005-a61d-1dc442ba750b_rw_1920.jpg"
+  ],
+  "presetComparison": {
+    "original": "/portfolio/KERCHAK X KING FALI/03cfe317-58b8-42fb-a945-46f916da656c_rw_1920.jpg",
+    "preset": "/portfolio/KERCHAK X KING FALI/227dec61-b9ec-4f25-9bd5-e4aa36148853_rw_1920.jpg"
+  },
+  "credits": { "client": "Concert promoters", "role": "Photographer" },
+  "theme": { "accent": "#1FA4FF" }
+}

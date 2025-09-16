@@ -1,0 +1,24 @@
+{
+  "slug": "cf-montreal-vs-stlouis-city",
+  "title": "CF Montréal vs St. Louis City",
+  "date": "2024-08-18",
+  "location": "Montréal, Canada",
+  "services": ["Photography"],
+  "summary": "Matchday story—energy, crowd, decisive moments—delivered with a cold blue grade and crisp contrasts.",
+  "hero": "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/46e02892-86b8-4a73-a5cd-c05843de35ab_rw_1920.jpg",
+  "gallery": [
+    "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/46e02892-86b8-4a73-a5cd-c05843de35ab_rw_1920.jpg",
+    "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/37176c71-1b52-438b-b329-c7baec53deea_rw_1200.jpg",
+    "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/029931d8-68a1-43cd-a4e7-7e21d70ac297_rw_600.jpg"
+  ],
+  "presetComparison": {
+    "original": "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/46e02892-86b8-4a73-a5cd-c05843de35ab_rw_1920.jpg",
+    "preset": "/portfolio/CF MONTREAL VS ST. LOUIS CITY SOCCER CLUB/37176c71-1b52-438b-b329-c7baec53deea_rw_1200.jpg"
+  },
+  "credits": {
+    "client": "CF Montréal",
+    "role": "Photographer",
+    "collaborators": []
+  },
+  "theme": { "accent": "#1FA4FF" }
+}

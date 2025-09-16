@@ -1,0 +1,18 @@
+{
+  "name": "Antoine Longue",
+  "tagline": "Graphic Design & Photography for world‑class sport & brand stories.",
+  "locations": ["Montreal", "Madrid"],
+  "email": "booking@yourdomain.com",
+  "instagram": "https://www.instagram.com/antoinelongue?igsh=aTRsNnRodjIxOTZv",
+  "uefa": true,
+  "bio": {
+    "title": "Graphic Designer & Photographer",
+    "credentials": "Member of the UEFA Media Pool",
+    "availability": "Available Worldwide",
+    "clients": "Clients in 10+ Countries"
+  },
+  "accent": {
+    "electricBlue": "#1FA4FF",
+    "gold": "#D6AF68"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cf-montreal-vs-lafc",
+  "title": "CF Montréal vs Los Angeles FC",
+  "date": "2024-05-11",
+  "location": "Montréal, Canada",
+  "services": ["Photography"],
+  "summary": "A tighter, dramatic angle set with warm highlights and trophy‑room sheen.",
+  "hero": "/portfolio/CF MONTREAL VS LOS ANGELES FC/1f94e432-be06-44e6-9c64-af0ed2b7463b_rw_1920.jpg",
+  "gallery": [
+    "/portfolio/CF MONTREAL VS LOS ANGELES FC/1f94e432-be06-44e6-9c64-af0ed2b7463b_rw_1920.jpg",
+    "/portfolio/CF MONTREAL VS LOS ANGELES FC/227a1383-cbae-4abc-b664-8b19b6debf83_rw_1920.jpg",
+    "/portfolio/CF MONTREAL VS LOS ANGELES FC/234678f7-6172-4b63-8b87-6bd51cf3d5c3_rw_1920.jpg"
+  ],
+  "presetComparison": {
+    "original": "/portfolio/CF MONTREAL VS LOS ANGELES FC/1f94e432-be06-44e6-9c64-af0ed2b7463b_rw_1920.jpg",
+    "preset": "/portfolio/CF MONTREAL VS LOS ANGELES FC/227a1383-cbae-4abc-b664-8b19b6debf83_rw_1920.jpg"
+  },
+  "credits": { "client": "CF Montréal", "role": "Photographer" },
+  "theme": { "accent": "#D6AF68" }
+}

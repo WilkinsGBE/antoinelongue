@@ -1,0 +1,20 @@
+{
+  "slug": "media-day-soccer-cvm",
+  "title": "Media Day — Soccer CVM",
+  "date": "2025-01-20",
+  "location": "Montreal, Canada",
+  "services": ["Photography", "Graphic Design"],
+  "summary": "Studio lighting, controlled gradients, and graphic overlays for a consistent club media kit.",
+  "hero": "/portfolio/MEDIA DAY SOCCER CVM/c682f22f-b0bf-4be1-8db6-87370104d86e_rw_1920.jpg",
+  "gallery": [
+    "/portfolio/MEDIA DAY SOCCER CVM/c682f22f-b0bf-4be1-8db6-87370104d86e_rw_1920.jpg",
+    "/portfolio/MEDIA DAY SOCCER CVM/06fcfb03-1146-4ee6-a2c8-c2accc31922e_rw_1920.jpg",
+    "/portfolio/MEDIA DAY SOCCER CVM/1f2c1248-89b9-4f0b-9081-ff00d8f4088e_rw_1200.jpg"
+  ],
+  "presetComparison": {
+    "original": "/portfolio/MEDIA DAY SOCCER CVM/c682f22f-b0bf-4be1-8db6-87370104d86e_rw_1920.jpg",
+    "preset": "/portfolio/MEDIA DAY SOCCER CVM/06fcfb03-1146-4ee6-a2c8-c2accc31922e_rw_1920.jpg"
+  },
+  "credits": { "client": "CVM", "role": "Photographer/Designer" },
+  "theme": { "accent": "#1FA4FF" }
+}

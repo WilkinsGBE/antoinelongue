@@ -1,0 +1,20 @@
+{
+  "slug": "camp-retour-a-lorigine-2025",
+  "title": "Retour à l'Origine — Youth Camp",
+  "date": "2025-07-22",
+  "location": "Montreal, Canada",
+  "services": ["Photography"],
+  "summary": "Outdoor action and human moments for Benjamin St‑Juste's camp; warmth, grit, and community.",
+  "hero": "/portfolio/CAMP RETOUR À L'ORIGINE/2dda9cc1-d428-4c0a-b131-b028190b2ac0_rw_1920.jpg",
+  "gallery": [
+    "/portfolio/CAMP RETOUR À L'ORIGINE/2dda9cc1-d428-4c0a-b131-b028190b2ac0_rw_1920.jpg",
+    "/portfolio/CAMP RETOUR À L'ORIGINE/50e2c163-d95b-46ea-895b-a0bd538c8e6a_rw_1920.jpg",
+    "/portfolio/CAMP RETOUR À L'ORIGINE/a1782edd-af89-4a5b-af39-f37b104fc9a7_rw_1920.jpg"
+  ],
+  "presetComparison": {
+    "original": "/portfolio/CAMP RETOUR À L'ORIGINE/2dda9cc1-d428-4c0a-b131-b028190b2ac0_rw_1920.jpg",
+    "preset": "/portfolio/CAMP RETOUR À L'ORIGINE/50e2c163-d95b-46ea-895b-a0bd538c8e6a_rw_1920.jpg"
+  },
+  "credits": { "client": "Benjamin St‑Juste", "role": "Photographer" },
+  "theme": { "accent": "#D6AF68" }
+}
